@@ -1,4 +1,16 @@
+# 🤩 Free QR Code Generator
+
+![](https://res.cloudinary.com/manoylo/image/upload/v1599334899/qr-code-gen_akopxl.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What is it?
+
+This is the front end of our "Generate QR Code" series: [https://manoylo.me/guides/qr-code-generator](https://manoylo.me/guides/qr-code-generator)
+
+## Where is the backend?
+
+You can find the backend here: [https://github.com/thecookieorg/qr_code_generator_series](https://github.com/thecookieorg/qr_code_generator_series)
 
 ## Available Scripts
 
